@@ -19,7 +19,7 @@ The RainfallYears class stores the mean monthly rainfall data for one year in an
 
 The Rainfall class is used to store rainfall data for each year in an array as RainfallYears objects. As well as a method which will return an array of the availble years, this method also provide methods to:
 
--return the mean precipitation for a given year
--the lowest mean precipitation for all years
--the highest mean precipitation for all years
--a method that will calculate mean precipitation for a certain month across all years.
+- return the mean precipitation for a given year
+- the lowest mean precipitation for all years
+- the highest mean precipitation for all years
+- a method that will calculate mean precipitation for a certain month across all years.
