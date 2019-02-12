@@ -23,3 +23,7 @@ The Rainfall class is used to store rainfall data for each year in an array as R
 - the lowest mean precipitation for all years
 - the highest mean precipitation for all years
 - a method that will calculate mean precipitation for a certain month across all years.
+
+When a Rainfall object is constructed, it will receive the available precipitation data as an object via asa parameter and the test class has created a sample set of data for you to use.
+
+I have also included a method in Rainfall which allows files to be read and calculating the mean rainfall between two years.
