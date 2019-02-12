@@ -11,3 +11,5 @@ A .CSV file containing a year number following with 12 numbers representing the 
 
 For example, the following extract from the file shows the data from 1873 through to 1875:
 
+![alt text](https://github.com/pearepeater30/Java-Project-2/blob/master/Annotation%202019-02-12%20112806.jpg)
+
