@@ -13,3 +13,13 @@ For example, the following extract from the file shows the data from 1873 throug
 
 ![alt text](https://github.com/pearepeater30/Java-Project-2/blob/master/Annotation%202019-02-12%20112806.jpg)
 
+There are two classes used: Rainfall and RainfallYears. An enumeration type is used called Month.
+
+The RainfallYears class stores the mean monthly rainfall data for one year in an array and the variable used to store the current year. A constructo is also included for the class. A getter for the year is included and also two methods are included. One is to calculate the mean rainfall for a year and another is to get the mean rainfall for a month.
+
+The Rainfall class is used to store rainfall data for each year in an array as RainfallYears objects. As well as a method which will return an array of the availble years, this method also provide methods to:
+
+-return the mean precipitation for a given year
+-the lowest mean precipitation for all years
+-the highest mean precipitation for all years
+-a method that will calculate mean precipitation for a certain month across all years.
